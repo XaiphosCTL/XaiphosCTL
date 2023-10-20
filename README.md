@@ -8,3 +8,7 @@
 
   - [Google IT Support Professional]
   - [Google Cybersecurity Professional Certificate]
+
+<h2>Connect with me!:</h2>
+
+  - [LinkedIn](https://www.linkedin.com/in/clifford-lyter-508705273/)
