@@ -8,6 +8,7 @@
 
   - [Google IT Support Professional]
   - [Google Cybersecurity Professional Certificate]
+  - [CompTIA Security+ CE Certification]
 
 <h2>Connect with me!:</h2>
 
