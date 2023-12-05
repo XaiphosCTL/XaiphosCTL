@@ -4,7 +4,7 @@ You can view my personal projects and read about labs I may have accomplished. I
 
 
 <h2> FullStack Academy Labs </h2>
-[Active Directory Home Lab (WIP)](https://github.com/XaiphosCTL/Ubuntu-VM-Familiarity)
+  - [Active Directory Home Lab (WIP)](https://github.com/XaiphosCTL/Ubuntu-VM-Familiarity)
 
 <h2> Personal Cybersecurity Projects:</h2>
 
