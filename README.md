@@ -1,4 +1,5 @@
 <h1>Hi, I'm Clifford! I am a transitioning United States Air Force member pursuing my dream to work in IT! 
+  
 I'm currently a Cybersecurity Intern with Allegiant Giving and enrolled in a Full-time Cybersecurity Bootcamp with FullStack Academy!
 You can view my personal projects and read about labs I may have accomplished. I'll do my best to include screen captures and my thought processes on everything!</h1>
 
